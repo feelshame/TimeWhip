@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">timewhip</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_id">1430115463923450</string>
+    <string name="menu_title"> EVENT</string>
+    <string name="button_add">Add</string>
+</resources>
